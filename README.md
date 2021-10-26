@@ -1,2 +1,2 @@
-# surf
-My custom surf browser fork.
+# Surf
+**My custom surf browser fork.**
